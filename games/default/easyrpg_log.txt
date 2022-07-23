@@ -1,0 +1,111 @@
+[2022-06-03 02:00:43] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2022-06-03 02:00:43] Debug: =========================================
+[2022-06-03 02:00:43] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-03 02:00:43] Debug: Seeded the RNG with 1654192842.
+[2022-06-03 02:00:43] Debug: CLI: 
+[2022-06-03 02:00:43] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-03 02:00:43] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-03 02:00:43] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-943_P15A-2003. Files not found (1/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-5348_P100-1997. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: UTF-16BE. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: UTF-16LE. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-5349_P100-1998. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: windows-936-2000. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: Big5. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-5346_P100-1998. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Bad encoding: KOI8-R. Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: windows-1254. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-9448_X100-2005. Files not found (0/2). Trying next.
+[2022-06-03 02:00:43] Debug: Detected encoding: ibm-943_P15A-2003
+[2022-06-03 02:00:43] Debug: Game and Save Directory:
+[2022-06-03 02:00:43] Debug: 1: [Native] 
+[2022-06-03 02:00:43] Debug: Loading game Ｏ魔法物語 体験版16.3
+[2022-06-03 02:00:43] Debug: Using RPG2k Interpreter
+[2022-06-03 02:00:43] Debug: MP3 file (kan_ge_kawa04.mp3) found
+[2022-06-03 02:00:43] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-03 02:00:43] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-03 02:00:43] Debug: Adding G:\Games\RPG2000\RPG2000_J\RPG2000_RTP to RTP path
+[2022-06-03 02:00:43] Debug: RTP is "Official Japanese" (465/465)
+[2022-06-03 02:00:43] Debug: RTP path G:\Games\RPG Maker 2000 RTP is invalid, not adding
+[2022-06-03 02:00:43] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-03 02:00:43] Debug: Cannot find: ./ExFont
+[2022-06-03 02:00:43] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-03 02:00:43] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-03 02:00:43] Debug: Actor 19: Removing item 72 (of type 2) from equipment slot 3 (needs type 3)
+[2022-06-03 02:00:43] Debug: Actor 24: Removing item 116 (of type 3) from equipment slot 5 (needs type 5)
+[2022-06-03 02:00:43] Debug: Actor 25: Removing item 136 (of type 3) from equipment slot 5 (needs type 5)
+[2022-06-03 02:00:44] Debug: Could not load soundfont.
+[2022-06-03 02:00:47] Debug: Starting new game
+[2022-06-03 02:00:47] Debug: Game uses RTP "Official Japanese"
+[2022-06-03 02:00:48] Debug: Loaded Map Map0007.lmu
+[2022-06-03 02:00:48] Debug: Tree: オープニング
+[2022-06-03 02:01:13] Debug: Loaded Map Map0006.lmu
+[2022-06-03 02:01:13] Debug: Tree: モーレル街 < オープニング
+[2022-06-03 02:01:21] Debug: Loaded Map Map0008.lmu
+[2022-06-03 02:01:21] Debug: Tree: アイカ家 < オープニング
+[2022-06-03 02:01:35] Debug: Loaded Map Map0009.lmu
+[2022-06-03 02:01:35] Debug: Tree: フィールド < オープニング
+[2022-06-03 02:01:51] Debug: Loaded Map Map0011.lmu
+[2022-06-03 02:01:51] Debug: Tree: アイカ家 < モレール田舎村
+[2022-06-03 02:02:36] Debug: Actor 19: Removing item 72 (of type 2) from equipment slot 3 (needs type 3)
+[2022-06-03 02:02:36] Debug: Actor 24: Removing item 116 (of type 3) from equipment slot 5 (needs type 5)
+[2022-06-03 02:02:36] Debug: Actor 25: Removing item 136 (of type 3) from equipment slot 5 (needs type 5)
+[2022-07-23 10:02:52] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2022-07-23 10:02:52] Debug: =========================================
+[2022-07-23 10:02:52] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-07-23 10:02:52] Debug: Seeded the RNG with 1658541770.
+[2022-07-23 10:02:52] Debug: CLI: 
+[2022-07-23 10:02:52] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-07-23 10:02:52] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-07-23 10:02:52] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-943_P15A-2003. Files not found (1/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-5348_P100-1997. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: UTF-16BE. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: UTF-16LE. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-5349_P100-1998. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: windows-936-2000. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: Big5. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-5346_P100-1998. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Bad encoding: KOI8-R. Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: windows-1254. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-9448_X100-2005. Files not found (0/2). Trying next.
+[2022-07-23 10:02:52] Debug: Detected encoding: ibm-943_P15A-2003
+[2022-07-23 10:02:52] Debug: Game and Save Directory:
+[2022-07-23 10:02:52] Debug: 1: [Native] 
+[2022-07-23 10:02:52] Debug: Loading game Ｏ魔法物語 体験版16.3
+[2022-07-23 10:02:52] Debug: Using RPG2k Interpreter
+[2022-07-23 10:02:52] Debug: MP3 file (kan_ge_kawa04.mp3) found
+[2022-07-23 10:02:52] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-07-23 10:02:52] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-07-23 10:02:52] Debug: Adding G:\Games\RPG2000\RPG2000_J\RPG2000_RTP to RTP path
+[2022-07-23 10:02:52] Debug: RTP is "Official Japanese" (465/465)
+[2022-07-23 10:02:52] Debug: RTP path G:\Games\RPG Maker 2000 RTP is invalid, not adding
+[2022-07-23 10:02:52] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-07-23 10:02:52] Debug: Cannot find: ./ExFont
+[2022-07-23 10:02:52] Debug: Loading ExFont from RPG_RT.exe
+[2022-07-23 10:02:52] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-07-23 10:02:52] Debug: Actor 19: Removing item 72 (of type 2) from equipment slot 3 (needs type 3)
+[2022-07-23 10:02:52] Debug: Actor 24: Removing item 116 (of type 3) from equipment slot 5 (needs type 5)
+[2022-07-23 10:02:52] Debug: Actor 25: Removing item 136 (of type 3) from equipment slot 5 (needs type 5)
+[2022-07-23 10:02:53] Debug: Could not load soundfont.
+[2022-07-23 10:02:55] Debug: Starting new game
+[2022-07-23 10:02:55] Debug: Game uses RTP "Official Japanese"
+[2022-07-23 10:02:55] Debug: Loaded Map Map0007.lmu
+[2022-07-23 10:02:55] Debug: Tree: オープニング
+[2022-07-23 10:03:08] Debug: Loaded Map Map0006.lmu
+[2022-07-23 10:03:08] Debug: Tree: モーレル街 < オープニング
+[2022-07-23 10:03:16] Debug: Loaded Map Map0008.lmu
+[2022-07-23 10:03:16] Debug: Tree: アイカ家 < オープニング
+[2022-07-23 10:03:31] Debug: Loaded Map Map0009.lmu
+[2022-07-23 10:03:31] Debug: Tree: フィールド < オープニング
+[2022-07-23 10:03:47] Debug: Loaded Map Map0011.lmu
+[2022-07-23 10:03:47] Debug: Tree: アイカ家 < モレール田舎村
+[2022-07-23 10:04:29] Debug: Saving to Save01.lsd
+[2022-07-23 10:04:56] Debug: Actor 19: Removing item 72 (of type 2) from equipment slot 3 (needs type 3)
+[2022-07-23 10:04:57] Debug: Actor 24: Removing item 116 (of type 3) from equipment slot 5 (needs type 5)
+[2022-07-23 10:04:57] Debug: Actor 25: Removing item 136 (of type 3) from equipment slot 5 (needs type 5)
